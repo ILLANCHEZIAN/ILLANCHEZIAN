@@ -26,6 +26,6 @@ Full Stack Developer
 
 ![ILLANCHEZIAN's GitHub stats]()
 
-[![Leetcode Stats]()
+![LeetCode Stats](https://leetcard.jacoblin.cool/ILLANCHEZIAN?theme=light&font=Marcellus&ext=heatmap)
 
 [![ILLANCHEZIAN's github activity graph]()
