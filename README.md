@@ -1,36 +1,22 @@
+<h1 align="center">Hi 👋, I'm ILLANCHEZIAN S</h1>
+<h3 align="center">MCA Graduate | Software Developer | Web Developer | Aspiring IT Professional</h3>
 
-## Hi there 👋 It's me ILLANCHEZIAN
+- 📫 How to reach me **illanillan716@gmail.com**
 
-Full Stack Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m currently purshing MCA
-- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
+- 📄 Know about my experiences [file:///C:/Users/PC/Pictures/Resume/Illanchezian_S_Resume.pdf](file:///C:/Users/PC/Pictures/Resume/Illanchezian_S_Resume.pdf)
 
-- ⚡ Fun fact: I know .
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/illanchezian-s-1b9976322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/illanchezliyan_555?igsh=MTFlcWRwZ2lvd3JhaA==)
+- ⚡ Fun fact **⚡ I debug more than I code, but that’s how the magic happens! ⚡ I started coding with HTML “Hello World” and never stopped exploring.**
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/illanchezian-s-1b9976322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/illanchezian-s-1b9976322" height="30" width="40" /></a>
+<a href="https://instagram.com/illanchezliyan_555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="illanchezliyan_555" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/illanchezliyan saravanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="illanchezliyan saravanan" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
- <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
- 
-## Technologies Used 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illanchezian&show_icons=true&locale=en&layout=compact" alt="illanchezian" /></p>
 
-- ![Undetected ChromeDriver](https://img.shields.io/badge/-Undetected_ChromeDriver-green)
-- ![Selenium](https://img.shields.io/badge/-Selenium-blue)
-- ![SMS-Activate](https://img.shields.io/badge/-SMSActivate-yellow)
-- ![Email](https://img.shields.io/badge/-Email-red)
-
-![ILLANCHEZIAN's GitHub stats]()
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ILLANCHEZIAN?theme=light&font=Marcellus&ext=heatmap)
-
-[![ILLANCHEZIAN's github activity graph]()
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illanchezian&show_icons=true&locale=en" alt="illanchezian" /></p>
