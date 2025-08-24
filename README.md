@@ -8,6 +8,12 @@
 
 - ⚡ Fun fact **⚡ I debug more than I code, but that’s how the magic happens! ⚡ I started coding with HTML “Hello World” and never stopped exploring.**
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 🎯 Beyond Coding
+- 📚 Love exploring tech & productivity books  
+- 🎶 Enjoy listening to music while coding  
+- ⚽ Big fan of football & outdoor activities  
+- 🎮 Gamer at heart – strategy & puzzle games  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
