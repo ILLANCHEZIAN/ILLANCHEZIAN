@@ -6,15 +6,27 @@
 - 📄 Know about my experiences  **[Illanchezian_Resume](https://drive.google.com/file/d/1l2ZwC61Hzc5elsL0fXf30BEx-AORi_cX/view?usp=drive_link)**
 
 
-- ⚡ Fun fact **⚡ I debug more than I code, but that’s how the magic happens! ⚡ I started coding with HTML “Hello World” and never stopped exploring.**
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- ⚡ Fun fact
+- ⚡ I debug more than I code, but that’s how the magic happens!
+- ⚡ I started coding with HTML “Hello World” and never stopped exploring.
+
+## 🛠️ Tools I Use
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+  
 ## 🎯 Beyond Coding
 - 📚 Love exploring tech & productivity books  
 - 🎶 Enjoy listening to music while coding  
 - ⚽ Big fan of football & outdoor activities  
 - 🎮 Gamer at heart – strategy & puzzle games  
 
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/illanchezian-s-1b9976322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/illanchezian-s-1b9976322" height="30" width="40" /></a>
