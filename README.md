@@ -19,7 +19,7 @@ A web-based portal designed to simplify and streamline the scholarship applicati
 - 🛠️ **Admin Panel** allows reviewing applications, managing listings, and sending notifications.  
 - 💡 Built to ensure an efficient, transparent, and user-friendly scholarship management system.  
      **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
-- **Project** [Source Code](https://github.com/your-ILLANCHEZIAN/Scholarship-portal)
+- **Project** [Source Code](https://github.com/ILLANCHEZIAN/Scholarship-portal)
 
 ## 🛠️ Tools I Use
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
