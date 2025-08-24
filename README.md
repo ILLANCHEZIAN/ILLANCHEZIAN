@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **illanillan716@gmail.com**
 
-- 📄 Know about my experiences **file:///C:/Users/PC/Pictures/Resume/Illanchezian_S_Resume.pdf**
+- 📄 Know about my experiences **Illanchezian_S_Resume.pdf**
 
 - ⚡ Fun fact **⚡ I debug more than I code, but that’s how the magic happens! ⚡ I started coding with HTML “Hello World” and never stopped exploring.**
 
