@@ -21,6 +21,17 @@ A web-based portal designed to simplify and streamline the scholarship applicati
      **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
 - **Project** [Source Code](https://github.com/ILLANCHEZIAN/Scholarship-portal)
 
+### 🏡 Online Land Registration System – Blockchain & Web Development Project  
+A web-based system developed to enhance transparency and security in land record management using blockchain technology.  
+
+- 👤 **Users** can register land details, view property information, and download verified ownership records.  
+- 🔐 **Admin Panel** provides secure authentication, record verification, and management of registered properties.  
+- 🌍 **Map Integration** enables users to visualize land plots with location details.  
+- 📑 **PDF Export** allows easy sharing and storage of land documents.  
+     **Tech Stack:** HTML, CSS, JavaScript, Python (Flask), Blockchain
+- **Project** [Source Code](https://github.com/ILLANCHEZIAN/Scholarship-portal) 
+
+
 ## 🛠️ Tools I Use
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
