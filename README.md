@@ -29,7 +29,7 @@ A web-based system developed to enhance transparency and security in land record
 - 🌍 **Map Integration** enables users to visualize land plots with location details.  
 - 📑 **PDF Export** allows easy sharing and storage of land documents.  
      **Tech Stack:** HTML, CSS, JavaScript, Python (Flask), Blockchain
-- **Project** [Source Code](https://github.com/ILLANCHEZIAN/Scholarship-portal) 
+- **Project** [Source Code](https://github.com/ILLANCHEZIAN/Online-Land-Registration-System) 
 
 
 ## 🛠️ Tools I Use
