@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **illanillan716@gmail.com**
 
-- 📄 Know about my experiences  **[Illanchezian_Resume](https://drive.google.com/file/d/1l2ZwC61Hzc5elsL0fXf30BEx-AORi_cX/view?usp=drive_link)**
+- 📄 Know about my experiences  **[Illanchezian_Resume](https://drive.google.com/file/d/1tzR5CGYF5RJOsvP-WFlyPGCmSC8liSqN/view?usp=sharing)**
 
 - ⚡ Fun fact: I learn new tech faster when I try to build something fun with it!
 
