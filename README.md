@@ -5,7 +5,8 @@
 
 - 📄 Know about my experiences  **[Illanchezian_Resume](https://drive.google.com/file/d/1l2ZwC61Hzc5elsL0fXf30BEx-AORi_cX/view?usp=drive_link)**
 
-- ⚡ Fun fact - I debug more than I code, but that’s how the magic happens!
+- ⚡ Fun fact: I learn new tech faster when I try to build something fun with it!
+
 
 
 ## 💻 Languages and Tools
